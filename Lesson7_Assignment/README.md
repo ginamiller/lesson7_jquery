@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gina Miller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson, we have created a webpage to show a brownie recipe. When the user hovers over the headings, the background of the heading will change to pink or yellow and the ingredients or instructions will show.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ginamiller.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Traversing the DOM with jQuery Methods
+2. Manipulating the DOM
+3. Using builtin jQuery effects
 
