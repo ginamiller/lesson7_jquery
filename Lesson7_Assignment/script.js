@@ -1,3 +1,4 @@
+/* global $ */
 /*
       Project Name:  Recipe Display Application
       
